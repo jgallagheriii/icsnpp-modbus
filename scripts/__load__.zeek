@@ -1,3 +1,3 @@
 @load ./main
-@load ics
-@load modbus
+@load ./ics
+@load ./modbus
